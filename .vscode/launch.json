@@ -6,6 +6,41 @@
   "configurations": [
     {
       "type": "java",
+      "name": "PlanoOperadora",
+      "request": "launch",
+      "mainClass": "PlanoOperadora",
+      "projectName": "Java_Dio_c404eebb"
+    },
+    {
+      "type": "java",
+      "name": "SistemaMedida",
+      "request": "launch",
+      "mainClass": "SistemaMedida",
+      "projectName": "Java_Dio_c404eebb"
+    },
+    {
+      "type": "java",
+      "name": "ResultadoEscolar",
+      "request": "launch",
+      "mainClass": "ResultadoEscolar",
+      "projectName": "Java_Dio_c404eebb"
+    },
+    {
+      "type": "java",
+      "name": "CaixaEletronico",
+      "request": "launch",
+      "mainClass": "CaixaEletronico",
+      "projectName": "Java_Dio_c404eebb"
+    },
+    {
+      "type": "java",
+      "name": "App",
+      "request": "launch",
+      "mainClass": "App",
+      "projectName": "Java_Dio_c404eebb"
+    },
+    {
+      "type": "java",
       "name": "Current File",
       "request": "launch",
       "mainClass": "${file}"
